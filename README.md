@@ -1,6 +1,5 @@
 ### May his software immortalise him. 👋
-- Secrecy comes from having a strong (but public) algorithm and a long key.
-- To prevent your kid brother from reading your email, 64-bit keys will do. For routine commercial use, at least 128-bits should be used. To keep major governments at bay, keys of at least 256-bits, preferably more, are needed.
+- To prevent your kid brother from reading your email, 64-bit keys will do. For routine commercial use, at least 128-bits should be used. To keep major governments at bay, keys of at least 256-bits, preferably more, are needed. 🌱
 
 
 <!--
